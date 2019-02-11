@@ -1,3 +1,4 @@
+*.docx
 *.pyc
 *~
 __pycache__
@@ -5,4 +6,5 @@ virtualenv
 db.sqlite3
 /static
 .DS_Store
+PythonAnywhere API Token.txt
 
